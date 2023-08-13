@@ -1,0 +1,70 @@
+[
+  {
+    "orderHandler": {
+      "orders": []
+    },
+    "paymentMethod": {
+      "CLASSNAME": "com.company.strategy.CreditCardPayment",
+      "DATA": {}
+    },
+    "id": 124024738,
+    "userType": "CUSTOMER",
+    "name": "shai",
+    "location": {
+      "x": 10,
+      "y": 1
+    },
+    "password": "123"
+  },
+  {
+    "orderHandler": {
+      "orders": []
+    },
+    "paymentMethod": {
+      "CLASSNAME": "com.company.strategy.CreditCardPayment",
+      "DATA": {}
+    },
+    "id": -996314541,
+    "userType": "CUSTOMER",
+    "name": "or",
+    "location": {
+      "x": 10,
+      "y": 5
+    },
+    "password": "456"
+  },
+  {
+    "orderHandler": {
+      "orders": []
+    },
+    "paymentMethod": {
+      "CLASSNAME": "com.company.strategy.CreditCardPayment",
+      "DATA": {}
+    },
+    "id": 266695191,
+    "userType": "CUSTOMER",
+    "name": "gilad",
+    "location": {
+      "x": 3,
+      "y": 9
+    },
+    "password": "789"
+  },
+  {
+    "orderHandler": {
+      "orders": []
+    },
+    "paymentMethod": {
+      "CLASSNAME": "com.company.strategy.CreditCardPayment",
+      "DATA": {}
+    },
+    "id": 429920616,
+    "userType": "CUSTOMER",
+    "name": "omer",
+    "location": {
+      "x": 10,
+      "y": 3
+    },
+    "password": "123456"
+  }
+]
